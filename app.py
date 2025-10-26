@@ -11,7 +11,7 @@ OPENAI_API_KEY = "sk-proj-O2zRWiR3fpR3ZvMVp3lWBj4CkRWrjNGjzZAUx_FYcc64OSjF9QjVAm
 TWILIO_SID = "ACe72f24d985b7f5b464f8d3d6550dedfd"
 TWILIO_AUTH = "47cbf3961494edf4b009be38a0a42d99"
 TWILIO_WHATSAPP = "whatsapp:+14155238886"   # ✅ Twilio sandbox number
-BROTHER_WHATSAPP = "whatsapp:9792714619" # ✅ Your brother's WhatsApp number
+BROTHER_WHATSAPP = "whatsapp:+919792714619" # ✅ Your brother's WhatsApp number
 
 
 openai.api_key = OPENAI_API_KEY
