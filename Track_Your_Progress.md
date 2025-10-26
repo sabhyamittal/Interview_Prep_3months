@@ -10,7 +10,7 @@
 
 | #  | Problem                                                                                                                         | Status |
 | -- | ------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [ ]    |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [done ]    |
 | 2  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [ ]    |
 | 3  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | [ ]    |
 | 4  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [ ]    |
