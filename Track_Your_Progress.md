@@ -12,7 +12,7 @@
 | -- | ------------------------------------------------------------------------------------------------------------------------------- | ------ |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [done ]    |
 | 2  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [ done]    |
-| 3  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | [ ]    |
+| 3  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | [done ]    |
 | 4  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [ ]    |
 | 5  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | [ ]    |
 | 6  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | [ ]    |
