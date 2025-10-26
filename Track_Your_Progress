@@ -1,0 +1,144 @@
+
+
+---
+
+# 🧠 3-Month SDE Interview Preparation Tracker
+
+---
+
+## 🗓️ Week 1 — Arrays & Strings
+
+| #  | Problem                                                                                                                         | Status |
+| -- | ------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                                                               | [ ]    |
+| 2  | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)                               | [ ]    |
+| 3  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                       | [ ]    |
+| 4  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                         | [ ]    |
+| 5  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                     | [ ]    |
+| 6  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                             | [ ]    |
+| 7  | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                   | [ ]    |
+| 8  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                   | [ ]    |
+| 9  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)                                                                 | [ ]    |
+| 10 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ ]    |
+
+---
+
+## 🗓️ Week 2 — Stacks, Queues & Linked Lists
+
+| #  | Problem                                                                                             | Status |
+| -- | --------------------------------------------------------------------------------------------------- | ------ |
+| 11 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                               | [ ]    |
+| 12 | [Min Stack](https://leetcode.com/problems/min-stack/)                                               | [ ]    |
+| 13 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)                             | [ ]    |
+| 14 | [Implement Queue Using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)         | [ ]    |
+| 15 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                           | [ ]    |
+| 16 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)                     | [ ]    |
+| 17 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                               | [ ]    |
+| 18 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [ ]    |
+| 19 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                         | [ ]    |
+| 20 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                   | [ ]    |
+
+---
+
+## 🗓️ Week 3 — Dynamic Programming (Intro)
+
+| #  | Problem                                                                                         | Status |
+| -- | ----------------------------------------------------------------------------------------------- | ------ |
+| 21 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                               | [ ]    |
+| 22 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                             | [ ]    |
+| 23 | [House Robber](https://leetcode.com/problems/house-robber/)                                     | [ ]    |
+| 24 | [House Robber II](https://leetcode.com/problems/house-robber-ii/)                               | [ ]    |
+| 25 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)             | [ ]    |
+| 26 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | [ ]    |
+| 27 | [Coin Change](https://leetcode.com/problems/coin-change/)                                       | [ ]    |
+| 28 | [Jump Game](https://leetcode.com/problems/jump-game/)                                           | [ ]    |
+| 29 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)         | [ ]    |
+| 30 | [Unique Paths](https://leetcode.com/problems/unique-paths/)                                     | [ ]    |
+
+---
+
+## 🗓️ Week 4 — Trees & BSTs
+
+| #  | Problem                                                                                                                                               | Status |
+| -- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 31 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                                           | [ ]    |
+| 32 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)                                                                     | [ ]    |
+| 33 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                                               | [ ]    |
+| 34 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                                                           | [ ]    |
+| 35 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                                                       | [ ]    |
+| 36 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)                                     | [ ]    |
+| 37 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                                                             | [ ]    |
+| 38 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)                                                 | [ ]    |
+| 39 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [ ]    |
+| 40 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)                                         | [ ]    |
+
+---
+
+## 🗓️ Week 5 — Graphs
+
+| #  | Problem                                                                                           | Status |
+| -- | ------------------------------------------------------------------------------------------------- | ------ |
+| 41 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                             | [ ]    |
+| 42 | [Clone Graph](https://leetcode.com/problems/clone-graph/)                                         | [ ]    |
+| 43 | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                 | [ ]    |
+| 44 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)                               | [ ]    |
+| 45 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/)         | [ ]    |
+| 46 | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                         | [ ]    |
+| 47 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/)   | [ ]    |
+| 48 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)                                 | [ ]    |
+| 49 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                           | [ ]    |
+| 50 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [ ]    |
+
+---
+
+## 🗓️ Week 6 — Advanced DP
+
+| #  | Problem                                                                                           | Status |
+| -- | ------------------------------------------------------------------------------------------------- | ------ |
+| 51 | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                     | [ ]    |
+| 52 | [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)                     | [ ]    |
+| 53 | [Interleaving String](https://leetcode.com/problems/interleaving-string/)                         | [ ]    |
+| 54 | [Word Break](https://leetcode.com/problems/word-break/)                                           | [ ]    |
+| 55 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)                   | [ ]    |
+| 56 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | [ ]    |
+| 57 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)                               | [ ]    |
+| 58 | [Triangle](https://leetcode.com/problems/triangle/)                                               | [ ]    |
+| 59 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/)                                   | [ ]    |
+| 60 | [Decode Ways](https://leetcode.com/problems/decode-ways/)                                         | [ ]    |
+
+---
+
+## 🧠 Week 7–8 — Mixed Revision (Greedy, Heap, Intervals)
+
+| #  | Problem                                                                                                                 | Status |
+| -- | ----------------------------------------------------------------------------------------------------------------------- | ------ |
+| 61 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/)                                                       | [ ]    |
+| 62 | [Insert Interval](https://leetcode.com/problems/insert-interval/)                                                       | [ ]    |
+| 63 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)                                                     | [ ]    |
+| 64 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                                                         | [ ]    |
+| 65 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)                       | [ ]    |
+| 66 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)                                       | [ ]    |
+| 67 | [Gas Station](https://leetcode.com/problems/gas-station/)                                                               | [ ]    |
+| 68 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/)                                                             | [ ]    |
+| 69 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/)                                                   | [ ]    |
+| 70 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [ ]    |
+
+---
+
+## 🏁 Week 9–12 — Advanced & Mock Prep
+
+| #  | Problem                                                                                       | Status |
+| -- | --------------------------------------------------------------------------------------------- | ------ |
+| 71 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)                     | [ ]    |
+| 72 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)           | [ ]    |
+| 73 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     | [ ]    |
+| 74 | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)                   | [ ]    |
+| 75 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                         | [ ]    |
+| 76 | [LFU Cache](https://leetcode.com/problems/lfu-cache/)                                         | [ ]    |
+| 77 | [N-Queens](https://leetcode.com/problems/n-queens/)                                           | [ ]    |
+| 78 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)                                 | [ ]    |
+| 79 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii/)                               | [ ]    |
+| 80 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [ ]    |
+
+---
+
